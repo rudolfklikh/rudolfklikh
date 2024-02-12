@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! My name is Rudolf Klikh. <br>I’m currently working at Motorola Solutions as a FrontEnd Developer</h2>
+<h2 align="left">Hi 👋! My name is Rudolf Klikh. <br>I’m Frontend Software Engineer at Motorola Solutions</h2>
+
+###
+
+<h3 align="left">Skills:</h3>
 
 ###
 
@@ -31,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
 </div>
+
+###
+
+<h3 align="left">Socials:</h3>
 
 ###
 
